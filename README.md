@@ -1,2 +1,2 @@
-BlueWire-tech app-ads.txt
+# BlueWire-tech app-ads.txt
 
